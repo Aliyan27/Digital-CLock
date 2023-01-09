@@ -1,0 +1,11 @@
+.timmer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+  font-size: 60px;
+  border: 1px solid black;
+
+  height: 100vh;
+}
